@@ -8,22 +8,21 @@ Hmmm... Entahlah, gw buat cuman sekedar repository project gw.... biar keren aja
 >
 >
 # Pinned Shortcuts for My Project
-```[Node.js](https://nodejs.org/en/)
-  
-[Git](https://git-scm.com/downloads)
-  
-[FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
-  
-[Tesseract](https://s.id/vftesseract)
-  
-[Chrome](https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-chromedriver)
-  
-[FFmpeg](https://elements.heroku.com/buildpacks/jonathanong/heroku-buildpack-ffmpeg-latest)
-  
-[Tesseract](https://elements.heroku.com/buildpacks/matteotiziano/heroku-buildpack-tesseract)
-  
-[Canvas](https://elements.heroku.com/buildpacks/automattic/node-canvas)```
-  
+[`Node.js`](https://nodejs.org/en/)
+>
+[`Git`](https://git-scm.com/downloads)
+>
+[`FFmpeg`](https://www.gyan.dev/ffmpeg/builds/)
+> 
+[`Tesseract`](https://s.id/vftesseract)
+> 
+[`Chrome`](https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-chromedriver)
+>  
+[`FFmpeg`](https://elements.heroku.com/buildpacks/jonathanong/heroku-buildpack-ffmpeg-latest)
+>  
+[`Tesseract`](https://elements.heroku.com/buildpacks/matteotiziano/heroku-buildpack-tesseract)
+>
+[`Canvas`](https://elements.heroku.com/buildpacks/automattic/node-canvas)
 >
 # Benefits?
 Entahlahh...
