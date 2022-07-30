@@ -8,14 +8,22 @@ Hmmm... Entahlah, gw buat cuman sekedar repository project gw.... biar keren aja
 >
 >
 # Pinned Shortcuts for My Project
-[Node.js](https://nodejs.org/en/)
+```[Node.js](https://nodejs.org/en/)
+  
 [Git](https://git-scm.com/downloads)
+  
 [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
+  
 [Tesseract](https://s.id/vftesseract)
+  
 [Chrome](https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-chromedriver)
+  
 [FFmpeg](https://elements.heroku.com/buildpacks/jonathanong/heroku-buildpack-ffmpeg-latest)
+  
 [Tesseract](https://elements.heroku.com/buildpacks/matteotiziano/heroku-buildpack-tesseract)
-[Canvas](https://elements.heroku.com/buildpacks/automattic/node-canvas)
+  
+[Canvas](https://elements.heroku.com/buildpacks/automattic/node-canvas)```
+  
 >
 # Benefits?
 Entahlahh...
@@ -26,7 +34,7 @@ Entahlahh...
 | Biar keren                   |        ✔️       |
 
 # License
->I dont't have any License, it's all open source project. And the source can be from nowhere from the internet :)
+I dont't have any License, it's all open source project. And the source can be from nowhere from the internet :)
   
 **This Repository** © [Rizzzky78](https://github.com/rizzzky78), released are not under any License.
 Authored and maintained by Rizzzky78.
