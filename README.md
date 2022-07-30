@@ -3,18 +3,15 @@
 
 # **My Repository**
 
-> Hmmm... Entahlah, gw buat cuman sekedar repository project gw.... biar keren aja gitu, pake GitHub ewkwkwwk :v
->
->
->
+Hmmm... Entahlah, gw buat cuman sekedar repository project gw.... biar keren aja gitu, pake GitHub ewkwkwwk :v
+
+
+
 # Pinned Shortcuts for My Project
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
 * [Tesseract](https://s.id/vftesseract)
-* Any text editor
-
-# Requirements Heroku
 * [Chrome](https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-chromedriver)
 * [FFmpeg](https://elements.heroku.com/buildpacks/jonathanong/heroku-buildpack-ffmpeg-latest)
 * [Tesseract](https://elements.heroku.com/buildpacks/matteotiziano/heroku-buildpack-tesseract)
@@ -30,7 +27,8 @@ Entahlahh...
 
 # License
 I dont't have any License, it's all open source project. And the source can be from nowhere from the internet :)
-**This Repository** © [Rizzzky78](ttps://github.com/rizzzky78), released are not under any License.
+  
+**This Repository** © [Rizzzky78](https://github.com/rizzzky78), released are not under any License.
 Authored and maintained by Rizzzky78.
 
 
