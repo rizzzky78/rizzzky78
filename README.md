@@ -32,6 +32,7 @@ Entahlahh...
 | Buat push/pull request       |        x        |
 | Biar keren                   |        ✔️       |
 </div>
+<div align="center">
 # License
 I dont't have any License, it's all open source project. And the source can be from nowhere from the internet :)
   
