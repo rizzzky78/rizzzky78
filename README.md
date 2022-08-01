@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/rizzzky78/rizzzkyRepo/main/shoujoBot1.0/picture/illust_79988645_20201116_154210.jpg" alt="My Repository" width="500" />
 
-# **My Repository**
+# **Rizzzu-chi**
 
 Hmmm... Entahlah, gw buat cuman sekedar repository project gw.... biar keren aja gitu, pake GitHub ewkwkwwk :v
 >
@@ -26,12 +26,12 @@ Hmmm... Entahlah, gw buat cuman sekedar repository project gw.... biar keren aja
 >
 # Benefits?
 Entahlahh...
-
+</div>
 |            Things            |  .............  |
 | :--------------------------: | :-------------: |
 | Buat push/pull request       |        x        |
 | Biar keren                   |        ✔️       |
-
+</div>
 # License
 I dont't have any License, it's all open source project. And the source can be from nowhere from the internet :)
   
