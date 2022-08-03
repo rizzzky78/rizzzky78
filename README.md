@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/rizzzky78/rizzzkyRepo/main/shoujoBot1.0/picture/illust_79988645_20201116_154210.jpg" alt="My Repository" width="500" />
 
-# **Rizzzu-chi**
+# **Rizzzu-chi Repository**
 
-Hmmm... Entahlah, gw buat cuman sekedar repository project gw.... biar keren aja gitu, pake GitHub ewkwkwwk :v
+Hmmm... Entahlah, gw buat cuman sekedar store repository project gw.... biar keren aja gitu :v
 >
 >
 >
@@ -35,7 +35,7 @@ Entahlahh...
 # License
 I dont't have any License, it's all open source project. And the source can be from nowhere from the internet :)
   
-**This Repository** © [Rizzzky78](https://github.com/rizzzky78), released are not under any License.
+**This Repository** © [Rizzzky78](https://github.com/rizzzky78), released are not under any License. Therefore it has only fork from several branches from local GitHub User :)
 Authored and maintained by Rizzzky78.
 >
 >
