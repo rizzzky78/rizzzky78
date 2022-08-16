@@ -1,9 +1,11 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/rizzzky78/rizzzkyRepo/main/shoujoBot1.0/picture/illust_79988645_20201116_154210.jpg" alt="My Repository" width="500" />
 
 # **Rizzzu-chi Repository**
+<img src="https://raw.githubusercontent.com/rizzzky78/rizzzkyRepo/main/shoujoBot1.0/picture/illust_79988645_20201116_154210.jpg" alt="My Repository" width="500" />
 
-Hmmm... Entahlah, gw buat cuman sekedar store repository project gw.... biar keren aja gitu :v
+# **Welcome!**
+
+Haiyaaa,... :)
 >
 >
 >
@@ -39,4 +41,4 @@ I dont't have any License, it's all open source project. And the source can be f
 Authored and maintained by Rizzzky78.
 >
 >
-anjay keren bet dah :'v
+cheers :'v
