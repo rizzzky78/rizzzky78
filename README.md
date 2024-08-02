@@ -6,10 +6,10 @@
 <img src="https://raw.githubusercontent.com/rizzzky78/rizzzkyRepo/main/shoujoBot1.0/picture/illust_79988645_20201116_154210.jpg" width="auto" />
 </p>
 
+Trakteer
+https://trakteer.id/rizzzuchan/tip
 
 # **Welcome to My Profile**
-
-I just want to be asfksjjksljfcjkcf
 
 # Tools
 [![MYSQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=00758f)](https://www.mysql.com/)
