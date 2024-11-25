@@ -34,6 +34,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzzky78&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+> whatever, just ignore my rating lol :)
+
 ## 🚀 Featured Projects
 
 <div align="center">
