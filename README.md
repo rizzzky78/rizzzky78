@@ -1,7 +1,9 @@
 
 # Hello, I'm Rizky 👋
 
-> Fullstack Developer | Node.js Enthusiast | Design Systems Architect
+> Fullstack Developer
+> Node.js Enthusiast
+> Design Systems Architect
 
 <div align="center">
   
