@@ -24,8 +24,8 @@
 
 <div align="center">
 
-[![ScaleNode](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=scalenode&theme=dark)](https://github.com/rizzzky78/scalenode)
-[![DesignSystemKit](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=designsystemkit&theme=dark)](https://github.com/rizzzky78/designsystemkit)
+[![Hani Assistant x Gemini](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=scalenode&theme=dark)](https://github.com/rizzzky78/hani-assistantXgemini)
+[![WA Blast x Gemini](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=designsystemkit&theme=dark)](https://github.com/rizzzky78/p-wablast-x-gemini)
 
 </div>
 
@@ -54,14 +54,10 @@ $ blabla --current-focus
 
 ## 🤝 Let's Connect
 
-[
+[LinkedIn](https://www.linkedin.com/in/rizzzky78/)
 
-](https://www.linkedin.com/in/rizzzky78/)
-[
+[Twitter](https://twitter.com/rizzzky78)
 
-](https://twitter.com/rizzzky78)
-[
-
-](https://rizzzky78.dev)
+[Website](https://rizzzky78.dev)
 
 ---
