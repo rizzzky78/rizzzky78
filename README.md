@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Rizky;Fullstack+Developer;Node.js+Enthusiast;AI+Integration+Specialist&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Rizky;Intermediate+Fullstack+Developer;Node.js+Enthusiast;AI+Integration+Specialist&center=true&width=380&height=50">
 </div>
 
 <p align="center">
@@ -30,16 +30,16 @@
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizzzky78&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&hide=contribs,prs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzzky78&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizzzky78&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=contribs,prs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzzky78&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-[![Hani Assistant X Gemini](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=hani-assistantXgemini&theme=radical)](https://github.com/rizzzky78/hani-assistantXgemini)
-[![P-Wablast X Gemini](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=p-wablast-x-gemini&theme=radical)](https://github.com/rizzzky78/p-wablast-x-gemini)
+[![Hani Assistant X Gemini](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=hani-assistantXgemini&theme=tokyonight)](https://github.com/rizzzky78/hani-assistantXgemini)
+[![P-Wablast X Gemini](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=p-wablast-x-gemini&theme=tokyonight)](https://github.com/rizzzky78/p-wablast-x-gemini)
 
 </div>
 
