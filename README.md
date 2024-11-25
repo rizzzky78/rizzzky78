@@ -1,43 +1,67 @@
+
+# Hello, I'm Rizky 👋
+
+> Fullstack Developer | Node.js Enthusiast | Design Systems Architect
+
+<div align="center">
+  
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+
+</div>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizzzky78&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&hide=contribs,prs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzzky78&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+## 🚀 Featured Projects
+
 <div align="center">
 
-# **Rizzzu-chi Repository**
+[![ScaleNode](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=scalenode&theme=dark)](https://github.com/rizzzky78/scalenode)
+[![DesignSystemKit](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=designsystemkit&theme=dark)](https://github.com/rizzzky78/designsystemkit)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/rizzzky78/rizzzkyRepo/main/shoujoBot1.0/picture/illust_79988645_20201116_154210.jpg" width="auto" />
-</p>
+</div>
 
-Trakteer
-https://trakteer.id/rizzzuchan/tip
+### ScaleNode
+A highly scalable Node.js framework for building enterprise-grade microservices.
+- 🌐 Handles 10k+ concurrent connections
+- 🔒 Built-in security features
+- 📊 Integrated monitoring and logging
 
-# **Welcome to My Profile**
+### DesignSystemKit
+A comprehensive toolkit for creating and maintaining design systems.
+- 🎨 Customizable component library
+- 📚 Extensive documentation
+- 🔄 Seamless Figma integration
 
-# Tools
-[![MYSQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=00758f)](https://www.mysql.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=yelow)](https://www.javascript.com)
-[![ReactJS](https://img.shields.io/badge/ReactJS-white?style=for-the-badge&logo=react&logoColor=7cc5d9)](https://reactjs.org/)
+## 💻 Current Focus
 
-[![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Heroku](https://img.shields.io/badge/Heroku-6567A5?style=for-the-badge&logo=Heroku&logoColor=white)](https://id.heroku.com/)
-[![Fmpeg](https://img.shields.io/badge/Ffmpeg-254FF5?style=for-the-badge&logo=Ffmpeg&logoColor=white)](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
+```bash
+$ blabla --current-focus
 
-[`FFmpeg`](https://www.gyan.dev/ffmpeg/builds/)
-[`Tesseract`](https://s.id/vftesseract)
-[`Chrome`](https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-chromedriver)
-[`Libwebp`](https://github.com/clhuang/heroku-buildpack-webp-binaries.git/)
-[`Canvas`](https://elements.heroku.com/buildpacks/automattic/node-canvas)
+> Learning Rust for systems programming
+> Exploring WebAssembly for high-performance web apps
+> Mentoring junior developers in architecture design
+> Contributing to open-source Node.js projects
+```
 
-# Benefits?
-nope
+## 🤝 Let's Connect
 
-|            Things            |  .............  |
-| :--------------------------: | :-------------: |
-| Buat push/pull request       |        x        |
-| Biar keren                   |        ✔️       |
+[
 
-# License
-I dont't have any License, it's all open source project. And the source can be from nowhere from the internet :)
-  
-**This Repository** © [Rizzzky78](https://github.com/rizzzky78), released are not under any License. Therefore it has only fork from several branches from local GitHub User :), also i create several repository to create project for my training course.
+](https://www.linkedin.com/in/rizzzky78/)
+[
 
-Authored and maintained by Rizzzky78.
+](https://twitter.com/rizzzky78)
+[
+
+](https://rizzzky78.dev)
+
+---
