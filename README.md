@@ -41,7 +41,7 @@
 <div align="center">
 
 [![Hani Assistant X Gemini](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=hani-assistantXgemini&theme=tokyonight)](https://github.com/rizzzky78/hani-assistantXgemini)
-[![P-Wablast X Gemini](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=p-wablast-x-gemini&theme=tokyonight)](https://github.com/rizzzky78/p-wablast-x-gemini)
+[![WhatsApp Bot Boilerplate AI Agents Built-in](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=whatsapp-bot-boilerplate&theme=tokyonight)](https://github.com/rizzzky78/whatsapp-bot-boilerplate)
 
 </div>
 
