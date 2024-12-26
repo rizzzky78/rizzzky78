@@ -1,4 +1,10 @@
-
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/rizzzky78?pet-id=659978069558332538"
+    width="600"
+    height="120"
+  />
+</a>  
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Rizky;Intermediate+Fullstack+Developer;Node.js+Enthusiast;AI+Integration+Specialist&center=true&width=380&height=50">
 </div>
@@ -27,6 +33,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
+
 ## 📊 GitHub Metrics
 
 <div align="center">
@@ -45,6 +52,7 @@
 
 </div>
 
+
 ### Hani Assistant X Gemini
 An AI-powered assistant integrating Google's Gemini technology.
 - 🤖 Advanced natural language processing
@@ -61,8 +69,19 @@ A WhatsApp blast system enhanced with Gemini AI capabilities.
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-## 💻 Current Focus
 
+
+  
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/rizzzky78"
+  width="600"
+  height="300"
+/>
+</a>
+
+
+## 💻 Current Focus
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ```bash
