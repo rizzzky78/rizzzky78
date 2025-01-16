@@ -89,7 +89,7 @@ $ rzky --current-focus
 > Exploring advanced AI integration in web applications
 > Optimizing Node.js microservices for high scalability
 > Developing innovative chatbot solutions
-> Contributing to open-source AI and Node.js projects
+> (maybe) Contributing to open-source AI and Node.js projects
 ```
 
 ## 🤝 Let's Connect
