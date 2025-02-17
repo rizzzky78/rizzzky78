@@ -6,7 +6,7 @@
   />
 </a>  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Rizky;Intermediate+Fullstack+Developer;Node.js+Enthusiast;AI+Integration+Specialist&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Rizky;Intermediate+Fullstack+Developer;Node.js+Enthusiast;AI+Integration&center=true&width=380&height=50">
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 # Hello, I'm Rizky 👋
 
-> Fullstack Developer | Node.js Enthusiast | AI Integration Specialist | Design Systems Architect
+> Fullstack Developer | Node.js Enthusiast | AI Integration | Design Systems Architect
 
 <div align="left">
   
@@ -42,33 +42,6 @@
 
 > whatever, just ignore my rating lol :)
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Hani Assistant X Gemini](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=hani-assistantXgemini&theme=tokyonight)](https://github.com/rizzzky78/hani-assistantXgemini)
-[![WhatsApp Bot Boilerplate AI Agents Built-in](https://github-readme-stats.vercel.app/api/pin/?username=rizzzky78&repo=whatsapp-bot-boilerplate&theme=tokyonight)](https://github.com/rizzzky78/whatsapp-bot-boilerplate)
-
-</div>
-
-
-### Hani Assistant X Gemini
-An AI-powered assistant integrating Google's Gemini technology.
-- 🤖 Advanced natural language processing
-- 🌐 Seamless integration with various platforms
-- 📊 Intelligent data analysis and reporting
-
-### P-Wablast X Gemini
-A WhatsApp blast system enhanced with Gemini AI capabilities.
-- 📱 Efficient mass messaging
-- 🧠 AI-driven content generation
-- 📈 Smart campaign analytics
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-
 
   
 <a href="https://github.com/devxb/gitanimals">
@@ -87,14 +60,8 @@ A WhatsApp blast system enhanced with Gemini AI capabilities.
 $ rzky --current-focus
 
 > Exploring advanced AI integration in web applications
-> Optimizing Node.js microservices for high scalability
-> Developing innovative chatbot solutions
-> (maybe) Contributing to open-source AI and Node.js projects
+> Exploring IoTs on AI integration capability
+> Learn something new everyday :)
 ```
 
-## 🤝 Let's Connect
-
-[Github](https://github.com/rizzzky78)
-[LinkedIn](https://www.linkedin.com/in/yourprofile/)
-[Twitter](https://twitter.com/yourhandle)
 
