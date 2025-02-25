@@ -31,18 +31,6 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-
-
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizzzky78&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=contribs,prs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzzky78&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-> whatever, just ignore my rating lol :)
-
-
   
 <a href="https://github.com/devxb/gitanimals">
 <img
