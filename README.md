@@ -14,9 +14,11 @@
 </p>
 
 
-# Hello, I'm Rizky 👋
+# Hello, I'm Rzky 👋
 
 > Fullstack Developer | Node.js Enthusiast | AI Integration | Design Systems Architect
+
+> Based on Indonesia
 
 <div align="left">
   
