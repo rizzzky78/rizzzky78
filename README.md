@@ -1,10 +1,12 @@
-<a href="https://github.com/devxb/gitanimals">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rizzzky78&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/rizzzky78?pet-id=659978069558332538"
+    src="https://render.gitanimals.org/lines/rizzzky78?pet-id=668104465574168795"
     width="600"
     height="120"
   />
-</a>  
+</a>
+  
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Rizky;Intermediate+Fullstack+Developer;Node.js+Enthusiast;AI+Integration&center=true&width=380&height=50">
 </div>
