@@ -18,7 +18,7 @@
 
 # Hello, I'm Rzky 👋
 
-> Fullstack Developer | Node.js Enthusiast | AI Integration | Design Systems Architect
+> Designer & Developer | Node.js Enthusiast | AI Integration | Design Systems Architect
 
 > Based on Indonesia
 
@@ -51,8 +51,8 @@
 ```bash
 $ rzky --current-focus
 
-> Exploring advanced AI integration in web applications
-> Exploring IoTs on AI integration capability
+> Exploring advanced AI/LLM integration in web applications
+> Exploring what and how to design
 > Learn something new everyday :)
 ```
 
